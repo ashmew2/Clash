@@ -1,0 +1,6 @@
+(if
+   (is (application_name) "Clash MENU")
+   (begin
+      (undecorate)
+   )
+)
