@@ -3,6 +3,10 @@
 from PyQt4 import QtCore, QtGui
 from PyQt4.QtCore import QObject, pyqtSignal,pyqtSlot
 
+'''
+Main File Responsible for Getting the Client Online.
+'''
+
 import sys
 import os
 from PyQt4.QtCore import QTimer
